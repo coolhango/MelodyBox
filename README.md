@@ -46,6 +46,5 @@ We love contributions! If you have ideas, suggestions, or want to report bugs, f
 ## 📄 **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-![Uploading Screenshot 2024-09-09 at 9.25.48 AM.png…]()
-
+<img width="1470" alt="Screenshot 2024-09-09 at 9 25 48 AM" src="https://github.com/user-attachments/assets/975345c4-66ae-4daa-b55f-1428af088d96">
 

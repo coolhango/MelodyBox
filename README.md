@@ -1,7 +1,10 @@
 # 🎶 **MelodyBox** 🎶
 
 ## Overview
-**MelodyBox** is a lightweight and elegant Mac application that brings your music controls right to the **menu bar**. No more switching windows or interrupting your workflow—control your music directly from the **top of your screen** with just a click. 🎧 This app is designed to seamlessly integrate with your Mac experience, providing easy access to essential music functions like shuffle, repeat, play/pause, and more.
+**MelodyBox** is a lightweight and elegant Mac application that brings your music controls right to the **menu bar**. No more switching windows or interrupting your workflow—control your music directly from the **top of your screen** with just a click. 🎧 This app is designed to seamlessly integrate with your Mac experience, providing easy access to essential music functions like shuffle, repeat, play/pause, and more. Made with 🫰 by cool hango.
+
+<img width="1470" alt="Screenshot 2024-09-09 at 9 24 51 AM" src="https://github.com/user-attachments/assets/32e96ea8-3763-4710-a5de-ccacb50f40c9">
+*Mac Dynamic Island: Check https://github.com/coolhango/Boring.*
 
 ## ✨ **Key Features**
 - **🎼 Song Title Display:** View the current playing song **directly in the Mac menu bar**. Keep track of what’s playing without any distractions.
@@ -42,3 +45,7 @@ We love contributions! If you have ideas, suggestions, or want to report bugs, f
 
 ## 📄 **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+![Uploading Screenshot 2024-09-09 at 9.25.48 AM.png…]()
+
+
